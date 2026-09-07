@@ -5,49 +5,44 @@
 ---
 
 #### 🧠 About Me
-- 🎓 **Education:** Master’s Student in Cybersecurity Management & Information Technology
-- 🔐 **Certification:** Certified Ethical Hacker (CEH)
-- 🕵️ **Focus:** Web Application Security & Penetration Testing
-- 🛡️ **Interests:** SOC, Threat Detection & Incident Response
-- 🤖 **Exploration:** AI/ML applications in Cybersecurity
-- 🧪 **Practice:** Hands-on learner via Hack The Box & Security Labs
+* 🎓 **Education:** Master’s Student in Cybersecurity Management & Information Technology
+* 🔐 **Certification:** Certified Ethical Hacker (CEH)
+* 🕵️ **Focus:** Web Application Security & Penetration Testing
+* 🛡️ **Interests:** SOC, Threat Detection & Incident Response
+* 🤖 **Exploration:** AI/ML applications in Cybersecurity
+* 🧪 **Practice:** Hands-on learner via Hack The Box & Security Labs
 
 ---
 
 #### 🔧 Tools & Technologies
-
-<sub style="font-size: 13px;">
-
 * **Security:** Nmap · Burp Suite · Metasploit · Nessus · Wireshark · Wazuh
 * **Programming & Scripting:** Python · PHP · HTML · SQL · Bash
 * **Platforms:** Linux · Kali Linux · Windows
 * **Domains:** Web Security · Network Security · Vulnerability Assessment · SIEM · Threat Detection
 
-</sub>
-
 ---
 
 #### 🛠️ Projects & Labs
-- **🕵️ Web Penetration Testing:** Practicing web vulnerability discovery and security assessment.
-- **🛡️ Threat Detection:** Exploring network traffic analysis and security monitoring.
-- **🤖 AI-Based Cybersecurity:** Researching Machine Learning approaches for cyber threat detection.
-- **🧪 Hack The Box & Security Labs:** Hands-on practice in penetration testing and defensive security.
+* **🕵️ Web Penetration Testing:** Practicing web vulnerability discovery and security assessment.
+* **🛡️ Threat Detection:** Exploring network traffic analysis and security monitoring.
+* **🤖 AI-Based Cybersecurity:** Researching Machine Learning approaches for cyber threat detection.
+* **🧪 Hack The Box & Security Labs:** Hands-on practice in penetration testing and defensive security.
 
 ---
 
 #### 📚 Currently Learning
-- 🔐 Advanced Web Penetration Testing
-- 🛡️ SOC & Threat Detection
-- 🌐 Web Application Security
-- 🤖 Machine Learning for Cybersecurity
-- ☁️ Cloud Security
+* 🔐 Advanced Web Penetration Testing
+* 🛡️ SOC & Threat Detection
+* 🌐 Web Application Security
+* 🤖 Machine Learning for Cybersecurity
+* ☁️ Cloud Security
 
 ---
 
 #### 🎯 Career Goals
-- 🚀 Become a Web Penetration Tester
-- 🛡️ Build experience in SOC & Security Operations
-- 🔬 Develop expertise in AI-driven Cybersecurity
+* 🚀 Become a Web Penetration Tester
+* 🛡️ Build experience in SOC & Security Operations
+* 🔬 Develop expertise in AI-driven Cybersecurity
 
 ---
 
