@@ -46,5 +46,14 @@
 
 ---
 
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rudolf-king&show_icons=true&theme=dark&hide_border=true" alt="Ye Yint Lwin's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudolf-king&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
 #### 📫 Let’s Connect
 [LinkedIn](https://linkedin.com) · [Email](mailto:your-email@example.com) · [GitHub](https://github.com/Rudolf-king)
