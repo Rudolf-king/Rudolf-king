@@ -1,55 +1,77 @@
-### 👋 Hello there, I’m Ye Yint Lwin!
+<div align="center">
 
-**🔐 Cybersecurity Master’s Student | 🕵️ Web Penetration Testing | 🛡️ SOC & Threat Detection | 🤖 AI for Cybersecurity**
+# Ye Yint Lwin
 
----
+**Cybersecurity Specialist · Penetration Tester (Web & Network) · SOC Analyst**
+*I analyze security postures, detect threats, and secure web applications with an attacker's mindset.*
 
-#### 🧠 About Me
-#### 🧠 About Me
-I am a Master’s student in Cybersecurity Management & Information Technology and a Certified Ethical Hacker (CEH) with a strong passion for web application security, penetration testing, and defensive operations. My focus spans SOC workflows, threat detection, and incident response, along with exploring AI/ML applications to enhance modern cybersecurity practices. As a dedicated hands-on practitioner, I continuously sharpen my offensive and defensive skills through Hack The Box and practical security lab challenges.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
+[![Certifications](https://img.shields.io/badge/Certifications-Verify-008000?style=flat-square&logo=badge)](https://credly.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:your-email@example.com)
 
----
-
-#### 🔧 Tools & Technologies
-* **Security:** Nmap · Burp Suite · Metasploit · Nessus · Wireshark · Wazuh
-* **Programming & Scripting:** Python · PHP · HTML · SQL · Bash
-* **Platforms:** Linux · Kali Linux · Windows
-* **Domains:** Web Security · Network Security · Vulnerability Assessment · SIEM · Threat Detection
+</div>
 
 ---
 
-#### 🛠️ Projects & Labs
-* **🕵️ Web Penetration Testing:** Practicing web vulnerability discovery and security assessment.
-* **🛡️ Threat Detection:** Exploring network traffic analysis and security monitoring.
-* **🤖 AI-Based Cybersecurity:** Researching Machine Learning approaches for cyber threat detection.
-* **🧪 Hack The Box & Security Labs:** Hands-on practice in penetration testing and defensive security.
+### 🛡️ About
+
+I am an IT Lecturer, penetration tester, and cybersecurity researcher focused on web application security, SOC operations, and threat detection. My work combines offensive security techniques with defensive monitoring to build resilient systems and deliver practical security insights.
+
+* 📌 **Focus:** Web Application Penetration Testing, SOC Analysis, Threat Detection & Incident Response.
+* 🤖 **Exploration:** Researching AI/ML applications and action-oriented AI agents for threat detection and security workflows.
+* 🛠️ **Methodology:** Hands-on, systematic lab practitioner through Hack The Box, TryHackMe, and custom security environments.
 
 ---
 
-#### 📚 Currently Learning
-* 🔐 Advanced Web Penetration Testing
-* 🛡️ SOC & Threat Detection
-* 🌐 Web Application Security
-* 🤖 Machine Learning for Cybersecurity
-* ☁️ Cloud Security
+### 🎓 Certifications
+
+| Certification | Issuer | Status |
+| :--- | :--- | :--- |
+| **CEH** — Certified Ethical Hacker | EC-Council | 🛠️ Certified (Mar 2025) |
+| **CCEP** — Certified Cybersecurity Educator Professional | EC-Council | 🛠️ Certified |
+| **BTJA** — Blue Team Junior Analyst | Security Blue Team | 🛠️ Certified |
 
 ---
 
-#### 🎯 Career Goals
-* 🚀 Become a Web Penetration Tester
-* 🛡️ Build experience in SOC & Security Operations
-* 🔬 Develop expertise in AI-driven Cybersecurity
+### 🚀 Featured Projects & Work
+
+| Project | What it demonstrates |
+| :--- | :--- |
+| **[Dut Guardian](https://github.com/Rudolf-king)** | Cybersecurity & privacy chatbot development utilizing local AI concepts. |
+| **[Web Penetration Testing Lab](https://github.com/Rudolf-king)** | Practical web vulnerability discovery, exploitation analysis, and assessment reporting. |
+| **[SOC & Threat Detection Lab](https://github.com/Rudolf-king)** | Log analysis, SIEM monitoring using Wazuh, and network traffic inspection. |
 
 ---
 
+### 🧰 Toolbox
 
-### 📊 GitHub Stats
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burp-suite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00599C?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-00A4E4?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557CDA?style=flat-square&logo=kali-linux&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudolf-king&show_icons=true&theme=dark&hide_border=true" alt="Ye Yint Lwin's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudolf-king&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+---
 
-#### 📫 Let’s Connect
-[LinkedIn](https://linkedin.com) · [Email](mailto:your-email@example.com) · [GitHub](https://github.com/Rudolf-king)
+### 🎯 Currently
+
+* 🧪 Practicing advanced offensive methodologies on Hack The Box and web security labs.
+* 🤖 Experimenting with local LLM agents (Ollama, DeepSeek) for security automation.
+* 📚 Deepening expertise in SIEM workflows, Wazuh log analysis, and threat hunting.
+
+---
+
+### ⚖️ Responsible Disclosure & Ethics
+
+All security testing activities documented here are conducted strictly within authorized environments, dedicated local lab infrastructures, or intentionally vulnerable training platforms (Hack The Box, TryHackMe). No unauthorized testing or exploitation is ever performed against production systems without explicit authorization.
+
+---
+
+### 📬 Connect
+
+* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+* **Email:** [your-email@example.com](mailto:your-email@example.com)
