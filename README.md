@@ -5,12 +5,8 @@
 ---
 
 #### 🧠 About Me
-* 🎓 **Education:** Master’s Student in Cybersecurity Management & Information Technology
-* 🔐 **Certification:** Certified Ethical Hacker (CEH)
-* 🕵️ **Focus:** Web Application Security & Penetration Testing
-* 🛡️ **Interests:** SOC, Threat Detection & Incident Response
-* 🤖 **Exploration:** AI/ML applications in Cybersecurity
-* 🧪 **Practice:** Hands-on learner via Hack The Box & Security Labs
+#### 🧠 About Me
+I am a Master’s student in Cybersecurity Management & Information Technology and a Certified Ethical Hacker (CEH) with a strong passion for web application security, penetration testing, and defensive operations. My focus spans SOC workflows, threat detection, and incident response, along with exploring AI/ML applications to enhance modern cybersecurity practices. As a dedicated hands-on practitioner, I continuously sharpen my offensive and defensive skills through Hack The Box and practical security lab challenges.
 
 ---
 
