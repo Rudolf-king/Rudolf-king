@@ -37,7 +37,7 @@ I am an IT Lecturer, penetration tester, and cybersecurity researcher focused on
 
 | Project | What it demonstrates |
 | :--- | :--- |
-| **[Dut Guardian](https://github.com/Rudolf-king)** | Cybersecurity & privacy chatbot development utilizing local AI concepts. |
+| **[AI Chatbot](https://github.com/Rudolf-king)** | Cybersecurity & privacy chatbot development utilizing local AI concepts. |
 | **[Web Penetration Testing Lab](https://github.com/Rudolf-king)** | Practical web vulnerability discovery, exploitation analysis, and assessment reporting. |
 | **[SOC & Threat Detection Lab](https://github.com/Rudolf-king)** | Log analysis, SIEM monitoring using Wazuh, and network traffic inspection. |
 
