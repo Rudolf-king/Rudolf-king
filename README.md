@@ -73,5 +73,5 @@ All security testing activities documented here are conducted strictly within au
 
 ### 📬 Connect
 
-* **LinkedIn:** [linkedin.com/in/your-profile]([https://linkedin.com](https://www.linkedin.com/in/ye-yint-lwin-4174ab325/))
+* **LinkedIn:** [linkedin.com/in/ye-yint-lwin-4174ab325](https://www.linkedin.com/in/ye-yint-lwin-4174ab325/)
 * **Email:** [your-email@example.com](hello)
